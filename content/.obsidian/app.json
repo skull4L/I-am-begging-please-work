@@ -1,0 +1,13 @@
+{
+  "spellcheckDictionary": [
+    "ecosphere",
+    "ecospheres"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ]
+}
